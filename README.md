@@ -1,2 +1,8 @@
 # operagx-nitro-gen
-Nitro generator
+Uses opera GX promotion to gain free nitro for 1 month
+
+# HOW TO USE
+
+1. Open up CMD and write the command pip install watchdog
+2. Launch the .exe file and choose the amount of threads to use (500 works best on most systems)
+[OPTIONAL] 
