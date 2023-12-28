@@ -1,5 +1,5 @@
 # operagx-nitro-gen
-Uses opera GX promotion to gain free nitro for 1 month
+Uses opera GX promotion to gain free nitro codes for 1 month and put them in a list.
 
 # HOW TO USE
 
